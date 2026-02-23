@@ -1,0 +1,1 @@
+![Ответ приложения](C:\Users\alin4\IdeaProjects\hw_docker\screenshot.png)
